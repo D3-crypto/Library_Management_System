@@ -21,7 +21,7 @@ This is a simple Library Management System implemented in Python. It allows you 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourUsername]/library-management-system.git
+   git clone https://github.com/D3-crypto/library-management-system.git
    ```
 2. Navigate to the project directory:
    ```bash
